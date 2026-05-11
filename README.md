@@ -32,4 +32,4 @@ Este projeto foi desenvolvido com o objetivo de:
 ---
 
 ## Made by:
-- [Jonas Esteves](https://github.com/Jonas-Franca);
+- [Jonas Esteves](https://github.com/JonasEstevess);
